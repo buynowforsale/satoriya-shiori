@@ -1,0 +1,35 @@
+# ソースコードの取得方法 #
+
+Google Codeの全てのプロジェクトは、Subversionと呼ばれるバージョン管理ツールを使うことで、最新のソースコードを取得することができます。
+
+特にWindowsではTortoiseSVNがおすすめです。
+
+リポジトリのURLは以下の通りです。
+
+## 読み取り専用/誰でもアクセス可 ##
+### 最新版 ###
+http://satoriya-shiori.googlecode.com/svn/trunk/
+
+## 開発者のみ ##
+### 最新版 ###
+https://satoriya-shiori.googlecode.com/svn/trunk/
+
+開発者なら、[Google Code Settings](http://code.google.com/hosting/settings)で表示されるパスワードを使って書き込み（コミット）も可能です。
+
+コミットログは以下のURLで見られます。
+
+http://code.google.com/p/satoriya-shiori/source/list
+
+# コンパイルのしかた #
+
+里々のほうは特にやることはありません。素のVC++などで通るはずです。
+
+そだてについては、sodate / sodate\_setupフォルダと同じ場所に、infozipという名前で、info-zip zipライブラリを置いてください。
+
+http://www.info-zip.org/Zip.html
+
+# 開発方針 #
+
+「やりたいほうだい」
+
+ハデにぶっ壊さない限り何やってもいいです。

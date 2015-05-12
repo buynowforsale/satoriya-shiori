@@ -1,0 +1,9 @@
+# ダウンロード方法 #
+
+以下のGoogle Driveからダウンロード可能です。
+
+https://drive.google.com/folderview?id=0B0yCcgxQctDAWlVKV01TaFJ1VGM&usp=drive_web#list
+
+旧バージョンはこちらに保存しています。
+
+https://code.google.com/p/satoriya-shiori/downloads/list
